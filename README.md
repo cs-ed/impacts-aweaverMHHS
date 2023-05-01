@@ -49,6 +49,6 @@ The final evaluation will be done by the teacher using the rubric based on the c
 
 This lesson will facilitate inclusion by allowing for students to choose applications of relevance in their own lives. It will also give them the opportunity to reflect on how they would change things should they pursue a career in computing and equip them with resources and skills for assessing impact of computing applications and services. This lesson in conjunction with the projects in the YouCubed curriculum will increase relevance for students and encourage them to see the possibilities in their own future for computer science related careers. Ultimately I hope that it will make them feel as though they have something to provide the field of computing: their own unique background, perspective, and insights.
 
-### Conclusions:
+## Conclusions:
 
 Although this is meant to be a one-time lesson, it could be used at various points in the year, revisited, and improved since there is an unlimited amount of applications and services students could choose to research. After the initial time it is completed the teacher would make adjustments to the instructions and rubric, refining them to improve the outcomes desired based on the presentations the students completed.
